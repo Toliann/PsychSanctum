@@ -6,7 +6,7 @@
 # New Moon: PsychSanctum
 >DESIGNATION: PsychSanctum
 
->RISK LEVEL: A
+>RISK LEVEL: B+
 
 >POPULATION: Once filled with tormented souls, now abandoned, lost to the encroaching forest.
 
@@ -18,14 +18,14 @@
 
 >POSSIBLE WEATHER: Storms rage, rain pours, fog blankets
 
->ROUTING COST: 410
+>ROUTING COST: 340
 
 #
 This mod blends well with the interior of [Dantors Mental Hospital](https://thunderstore.io/c/lethal-company/p/Dantor/Dantors_Mental_Hospital/)
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/PsychSanctum/main/screenshot/New1.png)
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/PsychSanctum/main/screenshot/New2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/PsychSanctum/main/screenshot/2N.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/PsychSanctum/main/screenshot/1N.png)
 
 #
 > Added LevelTag for compatibility with the Celestial Tint(sfDesat) mod
@@ -36,4 +36,4 @@ This mod blends well with the interior of [Dantors Mental Hospital](https://thun
 
 #
 ### My discord - tolian
-
+- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
